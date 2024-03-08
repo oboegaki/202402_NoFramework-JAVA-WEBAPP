@@ -2,31 +2,30 @@
 
 ## 目的
 業務上、フレームワークを使用せずにJAVAでWEBアプリケーションを作る必要があったため、学習用としてリポジトリを作成することにした。
+WEBアプリケーション構築後、インフラの環境も構築する。
 
 ### TODO1 
 JAVAで簡易的なWEBショップアプリを開発(MVCモデル)。
 
 ### TODO2
-LinuxではなくWindowsServerを利用するため、WindowsServerにてインフラ環境を構築。
+LinuxではなくWindowsServerを利用するため、WindowsServerにてインフラ環境を構築し、公開する(VPS環境)。
 
 ### TODO3
-TODO2に構築した後、クラウド(AWS)環境にて構築。
-構築は(WEB/AP)(DB)の二層で構築を予定。
+TODO2構築後、クラウド(AWS)環境にて構築し、公開する
+※「(WEB/AP)(DB)」の二層で構築を予定。
 
 ----------------------------------------------
 
-### TODO1完了(2024年2月9日)
+## TODO1完了(2024年2月9日)
 簡易的なWEBショップアプリを開発完了。
 テストや改良は後程行う。
 
-### TODO2完了(2024/02/23) 
+## TODO2完了(2024/02/23) 
 VPS環境にでWEBアプリを公開。
 
-https://oboegaki-vps.com/TODO-1-No1/login.jsp
+https://win.oboegaki-vps.com/TODO-1-No1/login.jsp
 
-
-
-課金が心配だが、次はAWSにて構築予定。
+次はAWSにて構築予定。
 
 
 
