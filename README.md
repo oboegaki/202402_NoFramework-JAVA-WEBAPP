@@ -7,7 +7,7 @@
 JAVAで簡易的なWEBショップアプリを開発(MVCモデル)。
 
 ### TODO2
-LinuxではなくWindowsServerを利用するため、WindowsServerにて環境を構築。
+LinuxではなくWindowsServerを利用するため、WindowsServerにてインフラ環境を構築。
 
 ### TODO3
 TODO2に構築した後、クラウド(AWS)環境にて構築。
