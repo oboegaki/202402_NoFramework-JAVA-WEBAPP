@@ -20,7 +20,7 @@ TODO2構築後、クラウド(AWS)環境にて構築し、公開する
 簡易的なWEBショップアプリを開発完了。
 テストや改良は後程行う。
 
-## TODO2完了(2024/02/23) 
+## TODO2完了(2024年02月23日) 
 VPS環境にでWEBアプリを公開。
 
 https://win.oboegaki-vps.com/TODO-1-No1/login.jsp
