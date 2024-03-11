@@ -8,7 +8,7 @@ WEBアプリケーション構築後、インフラの環境も構築から公�
 JAVAで簡易的なWEBショップアプリを開発(MVCモデル)。
 
 ### TODO2
-LinuxではなくWindowsServerを利用するため、WindowsServerにてインフラ環境を構築し、公開する(VPS環境)。
+LinuxではなくWindowsServerを利用するため、WindowsServerにてインフラ環境を構築し、公開する(金銭的な理由によりVPS環境を利用)。
 
 ### TODO3
 TODO2構築後、クラウド(AWS)環境にて構築し、公開する。
@@ -25,8 +25,10 @@ VPS環境にでWEBアプリを公開。
 
 https://win.oboegaki-vps.com/TODO-1-No1/login.jsp
 
+  
 
-NextTODO: クラウド（AWS) にて構築構築～公開を予定。
+
+#### NextTODO: クラウド（AWS) にて、「(WEB/AP)(DB)」の二層での環境構築～公開を予定。
 
 
 
