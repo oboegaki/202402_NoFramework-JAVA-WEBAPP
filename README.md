@@ -28,7 +28,8 @@ https://win.oboegaki-vps.com/TODO-1-No1/login.jsp
   
 
 
-#### NextTODO: クラウド（AWS) にて、「(WEB/AP)(DB)」の二層での環境構築～公開を予定。
+#### NextTODO: 
+クラウド（AWS) にて、「(WEB/AP)(DB)」の二層での環境構築～公開を予定。
 
 
 
