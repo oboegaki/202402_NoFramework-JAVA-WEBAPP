@@ -29,13 +29,34 @@ https://win.oboegaki-vps.com/TODO-1-No1/login.jsp
 
 
 #### NextTODO: 
-クラウド（AWS) にて、「(WEB/AP)(DB)」の二層での環境構築～公開を予定。
+クラウド（AWS) にて、「(WEB/AP)(DB)」の二層での環境構築～公開を予定。  
 
 　
 
-※追記(2024年03月11日現在): VPCの設定まで完了。
+※追記(2024年03月11日): VPCの設定まで完了。　　
 
 
+  
+※追記(2024年03月17日現在)　　
 
+　サクラVPSが便利だったので、AWSより先に「(WEB/AP)(DB)」の二層での環境構築をVPSでテストした。　　
+
+　以下、同じDBサーバーを使用している。　　
+
+   
+
+***・WindowsServer***  
+ 
+https://win.oboegaki-vps.com/TODO-1-No1/login.jsp
+     
+***・Linux***  
+  
+https://linux.oboegaki-vps.com/TODO-1-No1/login.jsp
+
+___
+今後はGitHubだけでなく、ワードプレスを備忘録用に記事を残す　　
+
+https://linux.oboegaki-vps.com/wp/?p=2812
+___
  
 
