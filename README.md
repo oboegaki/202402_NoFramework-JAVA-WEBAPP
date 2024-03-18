@@ -39,15 +39,15 @@ VPS環境にでWEBアプリを公開。
 
 　サクラVPSに異なるサーバーを接続する機能があった為、、AWSより先に「(WEB/AP)(DB)」の二層での環境構築をVPSでテストした。　　
 
-　以下、同じDBサーバーを使用している(PostgreSQL)。　　
+　以下、同じDBサーバーを使用している ***(PostgreSQL)***。　　
 
    
 
-***・WindowsServer(IIS/WildFly)***  
+***・WindowsServer (IIS/WildFly)***  
  
 https://win.oboegaki-vps.com/TODO-1-No1/login.jsp
      
-***・Linux(Apache/Wildfly)***  
+***・Linux( Apache/Wildfly)***  
   
 https://linux.oboegaki-vps.com/TODO-1-No1/login.jsp
 
