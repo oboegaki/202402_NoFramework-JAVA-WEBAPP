@@ -1,8 +1,8 @@
 # 2024年2月頃作成開始
 
 ## 目的
-業務上、フレームワークを使用せずにJAVAでWEBアプリケーションを作る必要があったため、学習用としてリポジトリを作成することにした。
-WEBアプリケーション構築後、インフラの環境も構築から公開まで含めて学習する。
+業務上、フレームワークを使用せずにJAVAでWEBアプリケーションを作る必要があり、学習用としてリポジトリを作成することにした。
+インフラの環境も含め、構築から公開まで学習する。
 
 ### TODO1 
 JAVAで簡易的なWEBショップアプリを開発(MVCモデル)。
@@ -23,10 +23,8 @@ TODO2構築後、クラウド(AWS)環境にて構築し、公開する。
 ## TODO2完了(2024年02月23日) 
 VPS環境にでWEBアプリを公開。
 
-https://win.oboegaki-vps.com/TODO-1-No1/login.jsp
-
-  
-
+　　
+　　
 
 #### NextTODO: 
 クラウド（AWS) にて、「(WEB/AP)(DB)」の二層での環境構築～公開を予定。  
@@ -37,19 +35,19 @@ https://win.oboegaki-vps.com/TODO-1-No1/login.jsp
 
 
   
-※追記(2024年03月17日現在)　　
+※追記(2024年03月17日)　　
 
-　サクラVPSが便利だったので、AWSより先に「(WEB/AP)(DB)」の二層での環境構築をVPSでテストした。　　
+　サクラVPSに異なるサーバーを接続する機能があった為、、AWSより先に「(WEB/AP)(DB)」の二層での環境構築をVPSでテストした。　　
 
-　以下、同じDBサーバーを使用している。　　
+　以下、同じDBサーバーを使用している(PostgreSQL)。　　
 
    
 
-***・WindowsServer***  
+***・WindowsServer(IIS/WildFly)***  
  
 https://win.oboegaki-vps.com/TODO-1-No1/login.jsp
      
-***・Linux***  
+***・Linux(Apache/Wildfly)***  
   
 https://linux.oboegaki-vps.com/TODO-1-No1/login.jsp
 
