@@ -37,7 +37,8 @@ VPS環境にでWEBアプリを公開。
   
 ※追記(2024年03月17日)　　
 
-　サクラVPSに異なるサーバーを接続する機能があった為、、AWSより先に「(WEB/AP)(DB)」の二層での環境構築をVPSでテストした。　　
+　サクラVPSに異なるサーバーを接続する機能があった為、AWSより先に「(WEB/AP)(DB)」の二層での環境構築をVPSでテストした。　　
+ 
 
 　以下、同じDBサーバーを使用している ***(PostgreSQL)***。　　
 
@@ -52,8 +53,8 @@ https://win.oboegaki-vps.com/TODO-1-No1/login.jsp
 https://linux.oboegaki-vps.com/TODO-1-No1/login.jsp
 
 ___
-今後はGitHubだけでなく、ワードプレスを備忘録用に記事を残す　　
-
+※リバースプロキシの使用で、一つのドメインで複数のサイト(言語)が実行できるか確認したところ、実装ができた。  
+今後はGitHubだけでなく、ワードプレスを備忘録用に併用する。　　
 https://linux.oboegaki-vps.com/wp/?p=2812
 ___
  
