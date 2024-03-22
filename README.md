@@ -53,7 +53,7 @@ https://win.oboegaki-vps.com/TODO-1-No1/login.jsp
 https://linux.oboegaki-vps.com/TODO-1-No1/login.jsp
 
 ___
-※リバースプロキシの使用で、一つのドメインで複数のサイト(言語)が実行できるか確認したところ、実装ができた。  
+※一つのドメインで、複数のサイトが動作することが可能かか確認したところ実行ができた(リバースプロキシ)。  
 今後はGitHubだけでなく、ワードプレスを備忘録用に併用する。　　
 https://linux.oboegaki-vps.com/wp/?p=2812
 ___
