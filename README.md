@@ -54,7 +54,8 @@ https://linux.oboegaki-vps.com/TODO-1-No1/login.jsp
 
 ___
 ※一つのドメインで、複数のサイトを動作させることが可能であることを確認した(リバースプロキシ使用)。  
-今後はGitHubだけでなく、ワードプレスを備忘録用に併用する。　　
+今後はGitHubだけでなく、ワードプレスを備忘録用に併用する。  
+
 https://linux.oboegaki-vps.com/wp/?p=2812
 ___
  
